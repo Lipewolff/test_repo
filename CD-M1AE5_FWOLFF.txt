@@ -1,0 +1,3 @@
+print('Hola Mundo CS de Datos!')
+
+Prueba del aprendizaje esperado #6
